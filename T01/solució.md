@@ -18,12 +18,12 @@
 
 [**4\. Recomanació final.**](#recomanació-final)
 
-1. # **Introducció.**
+# **1. Introducció.**
 
 A totes les persones ens importa la proteccio de les nostres dades i el principal metode per protegir aquesta informacio és amb contrasenya, el 81% de filtracions de dades pasen degut a contrasenye debils o reutilitzades principalment per la facilitat de trobar aquestes amb un atac de diccionari o metodes relacionats de brute force.  
 La importancia de un gestor de contrasenyes es crucial per protegir contrasenyes degut a la seva efectivitat de mitigar posibilitats de que la teva contrasenya sigui robada
 
-2. # **Avantatges i Inconvenients**
+# **2. Avantatges i Inconvenients**
 
 | Característica | Bitwarden | KeePassXC |
 | :---- | :---- | :---- |
@@ -37,7 +37,7 @@ La importancia de un gestor de contrasenyes es crucial per protegir contrasenyes
 | **Compartició de contrasenyes** | Funcionalitats de compartició per a equips i famílies. | No nativa; possible mitjançant exportació/importació manual. |
 | **Suport per a TOTP** | Sí; generador de TOTP integrat. | Sí; suport per a TOTP integrat. |
 
-3. # **Gestor en línia vs Local** {#gestor-en-línia-vs-local}
+# **3. Gestor en línia vs Local** {#gestor-en-línia-vs-local}
 
 ## Seguretat
 
@@ -69,7 +69,7 @@ La importancia de un gestor de contrasenyes es crucial per protegir contrasenyes
 **Avantatges:** No depenen de serveis externs, oferint més control sobre les dades i processos interns.  
 **Inconvenients:** Cal gestionar internament el manteniment i les actualitzacions, i poden ser menys pràctics en entorns amb treballadors remots o molts dispositius diferents.
 
-4. # **Recomanació final**
+# **4. Recomanació final**
 
 **Recomanació: Bitwarden per al personal tècnic**
 

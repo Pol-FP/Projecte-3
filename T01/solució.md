@@ -6,24 +6,24 @@
 
 [**1\. Introducció.	3**](#introducció.)
 
-[**2\. Avantatges i Inconvenients	3**](#avantatges-i-inconvenients)
+[**2\. Avantatges i Inconvenients.**](#avantatges-i-inconvenients)
 
-[**3\. Gestor en línia vs Local	4**](#gestor-en-línia-vs-local)
+[**3\. Gestor en línia vs Local.**](#gestor-en-línia-vs-local)
 
-[Seguretat	4](#seguretat)
+[Seguretat(#seguretat)
 
-[Usabilitat	4](#usabilitat)
+[Usabilitat](#usabilitat)
 
-[Continuïtat del negoci	5](#continuïtat-del-negoci)
+[Continuïtat del negoci](#continuïtat-del-negoci)
 
-[**4\. Recomanació final	5**](#recomanació-final)
+[**4\. Recomanació final.**](#recomanació-final)
 
-1. # **Introducció.** {#introducció.}
+1. # **Introducció.**
 
 A totes les persones ens importa la proteccio de les nostres dades i el principal metode per protegir aquesta informacio és amb contrasenya, el 81% de filtracions de dades pasen degut a contrasenye debils o reutilitzades principalment per la facilitat de trobar aquestes amb un atac de diccionari o metodes relacionats de brute force.  
 La importancia de un gestor de contrasenyes es crucial per protegir contrasenyes degut a la seva efectivitat de mitigar posibilitats de que la teva contrasenya sigui robada
 
-2. # **Avantatges i Inconvenients**  {#avantatges-i-inconvenients}
+2. # **Avantatges i Inconvenients**
 
 | Característica | Bitwarden | KeePassXC |
 | :---- | :---- | :---- |
@@ -39,7 +39,7 @@ La importancia de un gestor de contrasenyes es crucial per protegir contrasenyes
 
 3. # **Gestor en línia vs Local** {#gestor-en-línia-vs-local}
 
-## Seguretat {#seguretat}
+## Seguretat
 
 **Gestors en línia:**  
 **Avantatges:** Utilitzen xifratge robust com AES-256 i protocols com PBKDF2 o Argon2id. Permeten accés segur des de múltiples dispositius amb sincronització automàtica i faciliten la recuperació de compte en cas de pèrdua d’un dispositiu.  
@@ -49,7 +49,7 @@ La importancia de un gestor de contrasenyes es crucial per protegir contrasenyes
 **Avantatges:** L’usuari té control total sobre les seves dades, que es guarden localment sense necessitat d’un servidor extern. Això redueix el risc d’atacs externs al núvol.  
 **Inconvenients:** Hi ha un risc de pèrdua de dades si el dispositiu falla o es perd, i es requereix fer còpies de seguretat de forma manual i constant.
 
-## Usabilitat {#usabilitat}
+## Usabilitat
 
 **Gestors en línia:**  
 **Avantatges:** Faciliten l’accés des de qualsevol dispositiu amb connexió a Internet. La sincronització és automàtica, la qual cosa aporta comoditat i estalvia temps. També permeten recuperar contrasenyes fàcilment si s’obliden.  
@@ -59,7 +59,7 @@ La importancia de un gestor de contrasenyes es crucial per protegir contrasenyes
 **Avantatges:** Permeten accedir a les contrasenyes de manera immediata sense necessitat d’Internet. L’usuari té control complet sobre les dades.  
 **Inconvenients:** La sincronització entre dispositius és manual, cosa que pot resultar complexa o incomoda per a alguns usuaris, sobretot els menys tècnics.
 
-## Continuïtat del negoci {#continuïtat-del-negoci}
+## Continuïtat del negoci
 
 **Gestors en línia:**  
 **Avantatges:** Són fàcilment escalables en entorns empresarials. El manteniment i les actualitzacions són gestionats pel proveïdor, i permeten accés remot als treballadors en entorns híbrids o distribuïts.  
@@ -69,7 +69,7 @@ La importancia de un gestor de contrasenyes es crucial per protegir contrasenyes
 **Avantatges:** No depenen de serveis externs, oferint més control sobre les dades i processos interns.  
 **Inconvenients:** Cal gestionar internament el manteniment i les actualitzacions, i poden ser menys pràctics en entorns amb treballadors remots o molts dispositius diferents.
 
-4. # **Recomanació final** {#recomanació-final}
+4. # **Recomanació final**
 
 **Recomanació: Bitwarden per al personal tècnic**
 

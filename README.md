@@ -26,9 +26,8 @@ Els antics alumnes heu ascendit a **tècnics júnior IT** i el vostre repte és 
 
 ## 📂 Contingut del projecte
 
-- [**Tasca 2 (T02)** – Primera activitat](./T02/README.md)  
-- [**Tasca 3 (T03)** – Segona activitat](./T03/README.md)  
-- [**Tasca 8 (T08)** – Tercera activitat](./T08/README.md)  
+- [**Tasca 1 (T01)**](./T01/README.md)  
+
 
 ---
 

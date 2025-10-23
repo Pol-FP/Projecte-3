@@ -2,7 +2,7 @@
 
 #### 
 
-**Index**
+# **Index**
 
 [**1\. Introducció.	3**](#introducció.)
 

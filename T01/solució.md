@@ -10,7 +10,7 @@
 
 [**3\. Gestor en línia vs Local.**](#gestor-en-línia-vs-local)
 
-[Seguretat(#seguretat)
+[Seguretat](#seguretat)
 
 [Usabilitat](#usabilitat)
 

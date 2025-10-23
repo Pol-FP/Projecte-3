@@ -18,35 +18,35 @@
 - Ara crearem la nostra contrasenya mestra; assegura’t que segueix el mínim de caràcters.  
   ![captura7](img/image7.png)  
 - Un cop fet tot això, anirem a l’aplicació i iniciarem sessió.  
-  ![captura8](img/image8.png)  
+  ![captura8](img/image4.png)  
 - Un cop iniciada la sessió amb la contrasenya d’accés, ens sortirà el següent menú.  
-  ![captura9](img/image9.png)
+  ![captura9](img/image8.png)
 
 - Ara farem clic al **\+** i seleccionarem **Inici de sessió**.  
-  ![captura10](img/image10.png)  
+  ![captura10](img/image9.png)  
 - Configurarem els paràmetres, com el nom que tindrà aquesta contrasenya; normalment voldrem que sigui un nom fàcil de recordar, per saber de què és aquesta contrasenya, i haurem de posar la contrasenya, etc.  
-  ![captura11](img/image11.png)  
+  ![captura11](img/image10.png)  
     
 - Ara tenim una eina molt interessant: podem clicar a la dreta del camp de l’usuari o la contrasenya i utilitzar un generador de contrasenyes segures, en el qual podrem canviar la quantitat de caràcters que volem i si volem només lletres minúscules, majúscules, números o caràcters especials.  
-  ![captura12](img/image12.png)  
+  ![captura12](img/image11.png)  
 - Com a pas final de la configuració, anirem a **Opcions d’emplenament automàtic** i omplirem el camp **Lloc web**.  
-  ![captura13](img/image13.png)  
+  ![captura13](img/image12.png)  
 - Ara tornarem a **bitwarden.com/download** i baixarem una mica, on veurem aquesta part per descarregar una extensió per al teu navegador; això permetrà que s’autocompleti la contrasenya.  
-  ![captura14](img/image14.png)
+  ![captura14](img/image13.png)
 
 - Ara entrarem a l’extensió de Google i iniciarem sessió al nostre Bitwarden.  
-  ![captura15](img/image15.png)  
-  ![captura16](img/image16.png)  
+  ![captura15](img/image14.png)  
+  ![captura16](img/image15.png)  
 - Un cop la sessió iniciada, podrem veure aquest menú a l’extensió.  
-  ![captura17](img/image17.png)  
+  ![captura17](img/image16.png)  
 - Quan entrem a la pàgina on vam posar l’autocompletar la vegada anterior, ens sortirà la següent barra i podrem autocompletar.  
-  ![captura18](img/image18.png)  
+  ![captura18](img/image17.png)  
 - Per exportar la caixa amb les contrasenyes, farem clic a **Fitxer \> Exporta caixa forta**.  
-  ![captura19](img/image19.png)  
+  ![captura19](img/image18.png)  
 - Ens sortirà la següent finestra, on podrem escollir quin tipus volem que sigui l’arxiu exportat de Bitwarden.  
-  ![captura20](img/image20.png)
+  ![captura20](img/image19.png)
 
-- Un cop fet això, haurem de posar la clau mestra i ja estaria.![captura21](img/image21.png)
+- Un cop fet això, haurem de posar la clau mestra i ja estaria.![captura21](img/image20.png)
 
 
 **De quina manera hauríem de protegir l’arxiu?**

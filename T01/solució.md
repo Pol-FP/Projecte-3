@@ -4,7 +4,7 @@
 
 # **Index**
 
-[**1\. Introducció.	3**](#introducció.)
+[**1\. Introducció.**](#introducció.)
 
 [**2\. Avantatges i Inconvenients.**](#avantatges-i-inconvenients)
 

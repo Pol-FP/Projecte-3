@@ -20,8 +20,8 @@
 
 # **1. Introducció.**
 
-A totes les persones ens importa la proteccio de les nostres dades i el principal metode per protegir aquesta informacio és amb contrasenya, el 81% de filtracions de dades pasen degut a contrasenye debils o reutilitzades principalment per la facilitat de trobar aquestes amb un atac de diccionari o metodes relacionats de brute force.  
-La importancia de un gestor de contrasenyes es crucial per protegir contrasenyes degut a la seva efectivitat de mitigar posibilitats de que la teva contrasenya sigui robada
+A totes les persones ens importa la protecció de les nostres dades, i el principal mètode per protegir aquesta informació és amb una contrasenya. El 81% de les filtracions de dades passen a causa de contrasenyes febles o reutilitzades, principalment per la facilitat de trobar-les amb un atac de diccionari o amb mètodes relacionats de brute force.
+La importància d’un gestor de contrasenyes és crucial per protegir-les, ja que és molt efectiu per reduir les possibilitats que la teva contrasenya sigui robada.
 
 # **2. Avantatges i Inconvenients**
 

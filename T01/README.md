@@ -29,3 +29,4 @@ Un dossier complet amb l’anàlisi comparativa de les opcions disponibles, la j
 Pots consultar la resolució completa de l’activitat al següent document:
 
 👉 [**Accedir a l’arxiu de solució**](./solució.md)
+👉 [**Accedir a la guia de gestor de contrasenyes**](./)

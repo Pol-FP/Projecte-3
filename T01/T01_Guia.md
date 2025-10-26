@@ -45,6 +45,7 @@
 - Ens sortirà la següent finestra, on podrem escollir quin tipus volem que sigui l’arxiu exportat de Bitwarden.  
   ![captura20](img/image20.png)
 - Un cop fet això, haurem de posar la clau mestra i ja estaria.
+
   ![captura21](img/image21.png)
 
 **De quina manera hauríem de protegir l’arxiu?**

@@ -1,4 +1,4 @@
-🔐 **T06: Fonaments del servei DNS
+# 🔐 T06: Fonaments del servei DNS
 
 La consultora EverPia ha rebut l’encàrrec de DigiCore, una empresa de màrqueting digital que experimenta errors de connectivitat en certes aplicacions. El seu equip tècnic sospita que la causa principal és una resolució de noms (DNS) incorrecta o lenta.
 

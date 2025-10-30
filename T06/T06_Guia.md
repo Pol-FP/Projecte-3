@@ -1,6 +1,6 @@
 ####
 - Per començar, tindrem dos adaptadors de xarxa: un en mode NAT i l’altre en mode adaptador pont.  
-  ![imagen1](img/image1.1png)  
+  ![imagen1](img/image1.png)  
   ![imagen2](img/image2.png)  
 - Farem clic a la barra inferior i seleccionarem la fletxa.  
   ![imagen3](img/image1.png)  

@@ -10,7 +10,6 @@ En resposta, se us ha encarregat realitzar una auditoria teòrica i pràctica de
 
 - Formar el personal tècnic de DigiCore en els conceptes fonamentals del DNS.
 - Preparar una píndola formativa en format vídeo (10-15 minuts) amb explicacions clares.
-- Realitzar una auditoria pràctica amb eines CLI per diagnosticar possibles problemes de resolució de noms.
 
 ---
 
@@ -29,31 +28,14 @@ En resposta, se us ha encarregat realitzar una auditoria teòrica i pràctica de
    - Resolució local (mDNS)
 6. Preparar un vídeo formatiu amb esquemes i exemples.
 
-### **Fase Pràctica**
-1. Executar i analitzar les comandes següents amb **dig**:
-   - `dig xtec.cat A` → IP, TTL, servidor que respon.
-   - `dig tecnocampus.cat NS` → Servidors de noms autoritatius.
-   - `dig escolapia.cat SOA` → Correu administrador i número de sèrie.
-   - `dig -x 147.83.2.135` → Registres PTR associats a la IP.
-2. Comprovació amb **nslookup** en mode interactiu:
-   - Consulta bàsica no autoritativa (`type=A` sobre tecnocampus.cat).
-   - Consulta autoritativa (usant IP del primer NS obtingut).
-3. Validar resolució local (mDNS o fitxer hosts).
-4. Crear un document `guia.md` amb:
-   - Captures de les 6 comandes.
-   - Explicacions detallades.
-   - Proves de resolució local.
-
 ---
 
 ## 📄 Solució
 
 Un dossier complet amb:
-- Material formatiu (vídeo + resum teòric).
-- Document `guia.md` amb resultats pràctics, anàlisi i captures.
+- Material formatiu (vídeo).
 
 Pots consultar la resolució completa de l’activitat al següent document:
 
 👉 [**Accedir al video Introduccio DNS**](https://drive.google.com/file/d/1j0NRUsycJuhEbApfgolOBRX0FLe5hHcC/view)
 
-👉 [**Accedir a la guia formativa DNS**](./T06_Guia.md)

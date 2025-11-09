@@ -1,4 +1,4 @@
-# 🔐 T06: Fonaments del servei DNS
+# 🔐 P06: Fonaments del servei DNS
 
 Com a membres cada cop més integrats de l’equip tècnic de la consultora EverPia, teniu davant un nou repte. El vostre client, una empresa de màrqueting digital (DigiCore), experimenta errors de connectivitat en certes aplicacions. El seu equip tècnic sospita que la causa principal podria ser una resolució de noms (DNS) incorrecta o lenta.
 

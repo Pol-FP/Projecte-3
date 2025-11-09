@@ -54,6 +54,6 @@ Un dossier complet amb:
 
 Pots consultar la resolució completa de l’activitat al següent document:
 
-👉 [**Accedir a l’arxiu de solució**](./solució.md)
+👉 [**Accedir al video Introduccio DNS**](https://drive.google.com/file/d/1j0NRUsycJuhEbApfgolOBRX0FLe5hHcC/view)
 
 👉 [**Accedir a la guia formativa DNS**](./T06_Guia.md)

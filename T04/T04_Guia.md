@@ -166,9 +166,9 @@
 - Ara reiniciarem la màquina client i intentarem entrar amb un usuari del directori.  
 ![Captura73](img/73.png)
 ![Captura74](img/74.png)
-![Captura75](img/75.png)
+
 - Com podem veure, es crea automàticament el directori personal.  
-![Captura76](img/76.png)
+![Captura75](img/75.png)
 - Amb `id` comprovarem que estem a l’usuari indicat.  
-![Captura77](img/77.png)
+![Captura76](img/76.png)
 

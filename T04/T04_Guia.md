@@ -1,4 +1,6 @@
-
+**Serveis de directori. LDAP**
+**13/11/2025** 
+**Pol Castaño Meneses**
 
 #### 
 

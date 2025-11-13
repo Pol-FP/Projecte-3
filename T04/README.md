@@ -55,5 +55,5 @@ Un dossier complet amb:
 
 Pots consultar els recursos oficials i la documentació de l’activitat als següents materials:
 
-👉 [**Accedir al plec de condicions tècniques**](#)  
-👉 [**Material de classe (Moodle)**](#)
+👉 [**Guia LDAP**](T04_Guia.md)  
+

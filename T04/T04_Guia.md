@@ -23,7 +23,7 @@
   `sudo netplan apply`  
 ![Captura9](img/9.png)
 
-2. ## **Instal·lació i Configuració Base d'OpenLDAP**
+## **2. Instal·lació i Configuració Base d'OpenLDAP**
 
 - Ara instal·larem OpenLDAP amb la següent comanda:  
   `sudo apt install slapd ldap-utils -y`  
@@ -58,7 +58,7 @@
   `ldapsearch -xLLL -b “dc=innovatech06,dc=test”`  
 ![Captura26](img/26.png)
 
-3. ## **Gestió i Administració (LAM)**
+## **3. Gestió i Administració (LAM)**
 
 - Instal·larem el gestor d’usuaris LDAP (LAM) amb:  
   `sudo apt install ldap-account-manager -y`  
@@ -112,7 +112,7 @@
 - Un cop fet això, li tornarem a donar a **Save** i seguirem el mateix procés per crear un usuari amb el nom manager01.  
 ![Captura51](img/51.png)
 
-4. ## **Integració de Client (Client Zorin Desktop)**
+## **4. Integració de Client (Client Zorin Desktop)**
 
 - Configuració de xarxa de la màquina virtual.  
 ![Captura52](img/52.png)

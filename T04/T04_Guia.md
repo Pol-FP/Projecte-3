@@ -1,7 +1,12 @@
-# 🧭 **Serveis de Directori: LDAP**
+<div align="center">
 
-📅 **Data:** 13/11/2025  
-👤 **Autor:** Pol Castaño Meneses
+# 🧭 **SERVEIS DE DIRECTORI: LDAP**
+
+### 📅 *Data:* 13/11/2025  
+### 👤 *Autor:* Pol Castaño Meneses  
+
+</div>
+
 
 
 #### 

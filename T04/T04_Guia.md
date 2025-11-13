@@ -2,7 +2,7 @@
 
 #### 
 
-1. ## **Requeriments d'Infraestructura Inicial**
+## **1. Requeriments d'Infraestructura Inicial**
 
 - Començarem actualitzant el nostre Ubuntu Server.  
   ![][image1]  

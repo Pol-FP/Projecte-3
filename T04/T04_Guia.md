@@ -5,81 +5,70 @@
 ## **1. Requeriments d'Infraestructura Inicial**
 
 - Començarem actualitzant el nostre Ubuntu Server.  
-  ![][image1]  
+![Captura1](img/1.png)
 - Ara utilitzarem `sudo nano /etc/hosts`  
-  ![][image2]  
+![Captura2](img/2.png)
 - Canviarem el nom de la màquina i li posarem un domini.  
-  ![][image3]  
+![Captura3](img/3.png)
 - Comprovarem que el nom hagi sigut canviat amb:  
   `hostname -f`  
-  ![][image4]  
-    
-    
-    
-    
-    
-    
-    
-    
+![Captura4](img/4.png)  
 - Ara posarem dues interfícies de xarxa: una en **NAT** i l’altra en **adaptador només l’amfitrió**.  
-  ![][image5]  
-  ![][image6]  
+![Captura5](img/5.png)
+![Captura6](img/6.png)
 - Configurarem l’adaptador de xarxa i posarem el segon adaptador amb **dhcp4**.  
-  ![][image7]  
-  ![][image8]  
+![Captura7](img/7.png)
+![Captura8](img/8.png)
 - Ara aplicarem els canvis als adaptadors amb:  
   `sudo netplan apply`  
-  ![][image9]
+![Captura9](img/9.png)
 
 2. ## **Instal·lació i Configuració Base d'OpenLDAP**
 
 - Ara instal·larem OpenLDAP amb la següent comanda:  
   `sudo apt install slapd ldap-utils -y`  
-  ![][image10]  
+![Captura10](img/10.png)
 - Un cop instal·lat, ens sortirà per posar-li una contrasenya per a l’administrador del directori LDAP.  
-  ![][image11]![][image12]  
+![Captura11](img/11.png)
+![Captura12](img/12.png)
 - Un cop finalitzada aquesta petita configuració, comprovarem amb: `systemctl status slapd` si s’ha instal·lat correctament.  
-  ![][image13]  
+![Captura13](img/13.png)
 - Ara, per veure si està ben configurat, utilitzarem: `sudo slapcat` amb el qual podrem observar el domini configurat.  
-  ![][image14]  
+![Captura14](img/14.png)
 - **EN CAS** que tinguem alguna cosa malament (com el nostre domini) o haguem posat una contrasenya que no volem, o si la volem canviar, utilitzarem:  
   `sudo dpkg-reconfigure slapd`  
-  ![][image15]  
-  ![][image16]  
-  ![][image17]  
-  ![][image18]  
-  ![][image19]  
-  ![][image20]  
-  ![][image21]  
-  ![][image22]
-
+![Captura15](img/15.png)
+![Captura16](img/16.png)
+![Captura17](img/17.png)
+![Captura18](img/18.png)
+![Captura19](img/19.png)
+![Captura20](img/20.png)
+![Captura21](img/21.png)
+![Captura22](img/22.png)
 - Ara crearem un fitxer `.ldif` per a la configuració dels nostres OUs amb:  
   `sudo nano nom_fitxer.ldif`   
-  ![][image23]  
+![Captura23](img/23.png)
 - Ara començarem a escriure el nostre fitxer de configuració amb el qual crearem les següents OUs dins del nostre directori LDAP.  
-  ![][image24]  
+![Captura24](img/24.png)
 - Per afegir aquestes OUs dins del nostre directori LDAP utilitzarem la comanda:  
   `ldapadd -D “cn=admin,dc=innovatech06,dc=test” -W -f innovatech06.ldif`   
   (el que posa a `dc=` depèn del nostre domini)  
-  ![][image25]  
+![Captura25](img/25.png)
 - Per buscar les OUs que hem creat dins del nostre directori LDAP utilitzarem:  
   `ldapsearch -xLLL -b “dc=innovatech06,dc=test”`  
-  ![][image26]  
-    
-    
-  
-
+![Captura26](img/26.png)
 
 3. ## **Gestió i Administració (LAM)**
 
 - Instal·larem el gestor d’usuaris LDAP (LAM) amb:  
   `sudo apt install ldap-account-manager -y`  
-  `![][image27]`  
-- Obrirem una finestra al navegador que preferim i posarem la nostra IP de la interfície **Host-Only** amb un `/lam`. S’obrirà el panell gràfic.![][image28]  
+![Captura27](img/27.png) 
+- Obrirem una finestra al navegador que preferim i posarem la nostra IP de la interfície **Host-Only** amb un `/lam`. S’obrirà el panell gràfic.
+![Captura28](img/28.png)
 - Dins d’aquest panell gràfic, anirem a la part superior dreta a **LAM configuration**.  
-  ![][image29]  
+![Captura29](img/29.png)
 - Un cop aquí, seleccionarem **Edit server profiles**.  
-  ![][image30]  
+![Captura30](img/30.png)
 - Posarem les credencials per defecte:  
 - **Password:** lam  
 - **Profile name:** lam  

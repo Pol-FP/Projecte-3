@@ -1,8 +1,8 @@
-**Serveis de directori. LDAP**
+# 🧭 **Serveis de Directori: LDAP**
 
-**13/11/2025** 
+📅 **Data:** 13/11/2025  
+👤 **Autor:** Pol Castaño Meneses
 
-**Pol Castaño Meneses**
 
 #### 
 

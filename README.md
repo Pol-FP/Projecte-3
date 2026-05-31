@@ -44,4 +44,4 @@ Els antics alumnes heu ascendit a **tècnics júnior IT** i el vostre repte és 
 
 ---
 
-💡 Cada carpeta conté un **README** propi amb informació detallada de la tasca i un fitxer `solucio.md` amb el desenvolupament complet.
+💡 Cada carpeta conté un **README** propi amb informació detallada de la tasca i un fitxer `solucio.md` amb el desenvolupament complet, Les tasques que no s'han pogut realitzar tindran el fitxer README.md buit.

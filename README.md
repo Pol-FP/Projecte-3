@@ -33,9 +33,9 @@ Els antics alumnes heu ascendit a **tècnics júnior IT** i el vostre repte és 
 - [**Tasca 5 (T05)**](./T05/README.md)
 - [**Tasca 6 (T06)**](./T06/README.md)
 - [**Tasca 7 (T07)**](./T07/README.md)
-- [**Tasca 1 (T08)**](./T08/README.md)
-- [**Tasca 1 (T09)**](./T09/README.md)
-- [**Tasca 1 (T01)**](./T01/README.md)
+- [**Tasca 8 (T08)**](./T08/README.md)
+- [**Tasca 9 (T09)**](./T09/README.md)
+- [**Tasca 10 (T10)**](./T10/README.md)
 
 ---
 
